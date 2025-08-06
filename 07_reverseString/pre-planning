@@ -1,0 +1,5 @@
+split the string into an array,
+
+then iterate through the array in reverse
+
+then recombine into a reversed string
